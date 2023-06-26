@@ -1,3 +1,3 @@
 #!/usr/bin/python
 print("hello")
-print("hehe")
+print("qweqweqwe")
